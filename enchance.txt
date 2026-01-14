@@ -1,0 +1,10 @@
+instead of upgrading the cart parts you enchant them with buffs
+such as 
+    -20,40,60,80,100% speed gain
+    -20,40,60,80,100% money gain
+    -10,20,30,40,50% overall speed
+    -1,2,3,4,5% pet mult
+
+earn enchant materials from boss race as well. chance to earn more the higher you place
+
+make a loadout system 2 loadouts max for right now and potentally a 3 for robux

@@ -2,13 +2,17 @@ Go-karting Simulator
 
 On join, players get the "base kart"
 
--- players can use in-game currency "speed" to upgrade the kart in the following ways:
+
+//////////////////////////////////////////////////////////////////////////////////////
+-- players can use in-game currency to upgrade the kart in the following ways:
     - body
-    - engine
-    - wheels
+    - engine                                                                             !!!!! No long going with this option
+    - wheels                                                                             we are using the enchant parts and passive speed method!!!!!!!
     - transmission
     These items can be upgraded to lvl 10, at which point they are MAX level
-    
+//////////////////////////////////////////////////////////////////////////////////////
+
+
 -- alternative "speed" usage 
     -no cart upgrade 
     -player drives the track slowly gaining "speed" currency/stat and then when they choose they do a boss race
