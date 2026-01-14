@@ -7,8 +7,8 @@ On join, players get the "base kart"
     - engine
     - wheels
     - transmission
-
     These items can be upgraded to lvl 10, at which point they are MAX level
+    
 -- alternative "speed" usage 
     -no cart upgrade 
     -player drives the track slowly gaining "speed" currency/stat and then when they choose they do a boss race
@@ -28,7 +28,7 @@ they beat. For example:
 
 Players can use in-game money to purchase "eggs" that add a mini-kart (up to 4 or 5?) that race along side the player's kart to
 increase earnings. This is done by a flat rate (each mini kart comleteing a lap earns fixed money)
-p
+
 We could also add actual eggs to get pets that give a multiplier (each kart and mini-kart on the track increase earnings by X times
 depending on the active pets)
 
