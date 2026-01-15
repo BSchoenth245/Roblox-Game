@@ -1,0 +1,49 @@
+Go-karting Simulator
+
+On join, players get the "base kart"
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+-- players can use in-game currency to upgrade the kart in the following ways:
+    - body
+    - engine                                                                             !!!!! No long going with this option
+    - wheels                                                                             we are using the enchant parts and passive speed method!!!!!!!
+    - transmission
+    These items can be upgraded to lvl 10, at which point they are MAX level
+//////////////////////////////////////////////////////////////////////////////////////
+
+
+-- alternative "speed" usage 
+    -no cart upgrade 
+    -player drives the track slowly gaining "speed" currency/stat and then when they choose they do a boss race
+    -they earn the money based of scale below and then can use that to buy pets to help earn speed faster
+
+Players can earn the in-game currency by participating in races (happens passively) during which they race against 7
+predeterminedly fast "enemy karts" the reward that they get for completeing a lap is determined by which of the "enemy karts"
+they beat. For example:
+    - beat none: (0.125 * maxReward)
+    - enemy 1 (slowest): (0.25 * maxReward)
+    - enemy 2: (0.375 * maxReward)
+    - enemy 3: (0.5 * maxReward)
+    - enemy 4: (0.625 * maxReward)
+    - enemy 5: (0.75 * maxReward)
+    - enemy 6: (0.875 * maxReward)
+    - enemy 7 (fastest): (maxReward)
+
+Players can use in-game money to purchase "eggs" that add a mini-kart (up to 4 or 5?) that race along side the player's kart to
+increase earnings. This is done by a flat rate (each mini kart comleteing a lap earns fixed money)
+
+We could also add actual eggs to get pets that give a multiplier (each kart and mini-kart on the track increase earnings by X times
+depending on the active pets)
+
+have a rebirth system based off the "cash" from beating the enemies. so the player can get stronger if they are struggling to beat the boss.
+
+Once a player beats enemy 7 (the "boss"), they will unlock the ability to purchase access to the next world (track)
+
+The players should also have access to a garage for customizations, including
+    - colors for the karts
+    - liveries
+    - spoilers
+    - Helmet customizations?
+
+    These can be purchased using in-game money
