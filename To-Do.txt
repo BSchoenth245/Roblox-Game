@@ -1,0 +1,24 @@
+1 - Models
+
+1. World
+2. Track
+3. Kart
+4. Egg
+5. Pets (3)
+
+2 - UI
+
+1. Join Track
+2. Select Egg
+3. Inventory
+4. Speed/money display
+
+3 - Function
+
+1. Kart on track
+2. Finish Trigger
+3. Add Speed
+4. Kart off track
+5. Roll/open eggs
+6. Update inventory
+7. Show correct models (eggs, pets, models)
